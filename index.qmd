@@ -18,28 +18,12 @@ format:
     geometry: 
       - top=30mm
       - left=30mm
-  pptx-testing: 
+  osc-brand-pptx:
     slide-level: 2
-    reference-doc: template_lmu.pptx
-    output-file: lmu-branded-test.pptx
-    date: 09-30-2020 # this works, but had to set up the template correctly to have the date in footer on every slide
+    date: 10-06-2020 # this works, but had to set up the template correctly to have the date in footer on every slide
     date-format: long # Quarto's auto-formatting of date seems to play nice with pptx
     # footer: hello there footer # footer does nothing
-    testing: "Trying a custom field"
     incremental: true
-  pptx-working:
-    slide-level: 2
-    reference-doc: working-template.pptx
-    output-file: working-output.pptx
-    date: 09-30-2020 # this works, but had to set up the template correctly to have the date in footer on every slide
-    date-format: long # Quarto's auto-formatting of date seems to play nice with pptx
-    # footer: hello there footer # footer does nothing
-    testing: "Trying a custom field"
-    incremental: true
-  pptx:
-    slide-level: 2
-    footer: hello there footer
-    date: 09-30-2020
   # ipynb: default
 
 bibliography: references.bib
