@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lmu-osc.github.io/train-the-trainer-test-repo-separate-slidedeck-zenodo/LICENSE-CODE.html</loc>
-    <lastmod>2026-10-06T05:28:42.650Z</lastmod>
+    <loc>https://lmu-osc.github.io/slides-zenodo/LICENSE-CODE.html</loc>
+    <lastmod>2026-10-06T06:25:37.868Z</lastmod>
   </url>
   <url>
-    <loc>https://lmu-osc.github.io/train-the-trainer-test-repo-separate-slidedeck-zenodo/index.html</loc>
-    <lastmod>2026-10-06T05:28:42.656Z</lastmod>
+    <loc>https://lmu-osc.github.io/slides-zenodo/index.html</loc>
+    <lastmod>2026-10-06T06:25:37.874Z</lastmod>
   </url>
   <url>
-    <loc>https://lmu-osc.github.io/train-the-trainer-test-repo-separate-slidedeck-zenodo/slides.html</loc>
-    <lastmod>2026-10-06T05:28:42.656Z</lastmod>
+    <loc>https://lmu-osc.github.io/slides-zenodo/slides.html</loc>
+    <lastmod>2026-10-06T06:25:37.874Z</lastmod>
   </url>
   <url>
-    <loc>https://lmu-osc.github.io/train-the-trainer-test-repo-separate-slidedeck-zenodo/LICENSE.html</loc>
-    <lastmod>2026-10-06T05:28:42.650Z</lastmod>
+    <loc>https://lmu-osc.github.io/slides-zenodo/pptx-notes.html</loc>
+    <lastmod>2026-10-06T06:25:37.874Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/slides-zenodo/LICENSE.html</loc>
+    <lastmod>2026-10-06T06:25:37.868Z</lastmod>
   </url>
 </urlset>

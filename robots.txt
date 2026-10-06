@@ -1,1 +1,1 @@
-Sitemap: https://lmu-osc.github.io/train-the-trainer-test-repo-separate-slidedeck-zenodo/sitemap.xml
+Sitemap: https://lmu-osc.github.io/slides-zenodo/sitemap.xml

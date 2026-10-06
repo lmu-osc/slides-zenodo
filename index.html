@@ -508,8 +508,11 @@ div.csl-indent {
 </section>
 <section id="what-are-citations-and-references" class="level2">
 <h2 class="anchored" data-anchor-id="what-are-citations-and-references">What are citations and references?</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
 <p><strong>A small thought experiment..</strong></p>
 <p>Imagine reading various scientific papers to collect knowledge (<em>= reviewing the literature</em>). When you share this knowledge with someone, they would ask: <strong>“Where did you read this?”</strong></p>
+</div><div class="column" style="width:50%;">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="images/01_source_meme.png" class="img-fluid figure-img"></p>
@@ -517,6 +520,8 @@ div.csl-indent {
 </figure>
 </div>
 <p>Thus, you need to <strong>cite</strong> the source of your knowledge; in this case, a scientific paper.</p>
+</div>
+</div>
 <div class="notes">
 <p><strong>Presenter Notes</strong>:<br>
 “Imagine reading various scientific papers to collect knowledge (review of literature). When you share this knowledge, you’d be asked: “What is the source?”</p>
@@ -1065,7 +1070,7 @@ Deliver this slide as a concise closing summary. Reinforce the connection betwee
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/lmu-osc\.github\.io\/train-the-trainer-test-repo-separate-slidedeck-zenodo\/");
+        var filterRegex = new RegExp("https:\/\/lmu-osc\.github\.io\/slides-zenodo\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
