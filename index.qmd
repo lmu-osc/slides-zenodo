@@ -8,10 +8,10 @@ format:
     toc: true
   revealjs:
     slide-level: 2
-    css: slides-custom.css
+    css: assets/slides-custom.css
     footer: LMU Open Science Center
     slide-number: true
-    logo: OSC_Logo.jpg
+    logo: assets/OSC_Logo.jpg
     output-file: slides # this must be included to avoid naming conflict with index.html
   pdf:
     toc: true
