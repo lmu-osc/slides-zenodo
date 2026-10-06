@@ -263,13 +263,23 @@ First, you will first understand the importance of citing scientific literature 
 
 ## What are citations and references?
 
+::: {.columns}
+::: {.column width="50%"}
+
 **A small thought experiment..**
 
 Imagine reading various scientific papers to collect knowledge (*= reviewing the literature*). When you share this knowledge with someone, they would ask: **"Where did you read this?"**
 
+:::
+
+::: {.column width="50%"}
+
 ![Copyright: © FastArcher.](images/01_source_meme.png)
 
 Thus, you need to **cite** the source of your knowledge; in this case, a scientific paper.
+
+:::
+:::
 
 ::: {.notes}
 **Presenter Notes**:  
