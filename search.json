@@ -476,13 +476,6 @@
     "text": "CREDiT Contribution Statement - TO DO\nPossible roles using the CRediT contribition system or the Zenodo Contribution System:\nName main content creator: Conceptualization, Software, Writing - Original Draft, Visualization. Sara Lil Middleton: Writing - Review & Editing, Supervision. Sarah von Grebmer zu Wolfsthurn: Conceptualisation, Writing - Review & Editing, Supervision, Project Administration, Validation."
   },
   {
-    "objectID": "pptx-notes.html",
-    "href": "pptx-notes.html",
-    "title": "",
-    "section": "",
-    "text": "Table output\n\nTables look fine\nCan’t adjust their default vertical alignment in the template pptx, however\n\nThe “Content with Caption Layout” is triggered when there is text followed by something non-text, namely images/figures/tables\n\nOrder matters–images/figures/tables followed by text does not trigger this slide layout\nProbably prefer putting these in column layout instead"
-  },
-  {
     "objectID": "LICENSE.html",
     "href": "LICENSE.html",
     "title": "Creative Commons Attribution-ShareAlike 4.0 International",
