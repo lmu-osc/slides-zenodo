@@ -6,8 +6,10 @@ authors:
     orcid: "https://orcid.org/0009-0000-0305-9751"
     affiliation: "LMU Open Science Center"
 title: "Citing made simple: A practical guide for Zotero"
-version: v1.0.0
+version: v1.0.1
+doi: "10.5281/zenodo.23983541"
 date-released: 2026-11-05
+license: CC-BY-SA-4.0
 repository-code: "https://github.com/lmu-osc/slides-zotero"
 url: "https://lmu-osc.github.io/slides-zotero/"
 preferred-citation:
@@ -17,6 +19,7 @@ preferred-citation:
       orcid: "https://orcid.org/0009-0000-0305-9751"
   title: "Citing made simple: A practical guide for Zotero"
   year: 2026
+  doi: "10.5281/zenodo.23983541"
   repository-code: "https://github.com/lmu-osc/slides-zotero"
   url: "https://lmu-osc.github.io/slides-zotero/"
   type: "slides"
