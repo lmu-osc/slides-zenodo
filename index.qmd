@@ -12,18 +12,20 @@ format:
     footer: LMU Open Science Center
     slide-number: true
     logo: assets/OSC_Logo.jpg
-    output-file: slides # this must be included to avoid naming conflict with index.html
+    output-file: slides-zotero-revealjs.html # this must be included to avoid naming conflict with index.html
   pdf:
     toc: true
     geometry: 
       - top=30mm
       - left=30mm
+    output-file: slides-zotero.pdf
   osc-brand-pptx:
     slide-level: 2
     date: 10-06-2020 # this works, but had to set up the template correctly to have the date in footer on every slide
     date-format: long # Quarto's auto-formatting of date seems to play nice with pptx
     # footer: hello there footer # footer does nothing
     incremental: true
+    output-file: slides-zotero.pptx
   # ipynb: default
 
 bibliography: references.bib
