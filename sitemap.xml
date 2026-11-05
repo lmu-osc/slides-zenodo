@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lmu-osc.github.io/slides-zenodo/index.html</loc>
-    <lastmod>2026-11-02T01:57:23.516Z</lastmod>
+    <loc>https://lmu-osc.github.io/slides-zotero/index.html</loc>
+    <lastmod>2026-11-05T10:54:38.962Z</lastmod>
   </url>
   <url>
-    <loc>https://lmu-osc.github.io/slides-zenodo/slides.html</loc>
-    <lastmod>2026-11-02T01:57:23.516Z</lastmod>
+    <loc>https://lmu-osc.github.io/slides-zotero/slides-zotero-revealjs.html</loc>
+    <lastmod>2026-11-05T10:54:38.962Z</lastmod>
   </url>
   <url>
-    <loc>https://lmu-osc.github.io/slides-zenodo/LICENSE.html</loc>
-    <lastmod>2026-11-02T01:57:23.505Z</lastmod>
+    <loc>https://lmu-osc.github.io/slides-zotero/LICENSE.html</loc>
+    <lastmod>2026-11-05T10:54:38.955Z</lastmod>
   </url>
   <url>
-    <loc>https://lmu-osc.github.io/slides-zenodo/LICENSE-CODE.html</loc>
-    <lastmod>2026-11-02T01:57:23.505Z</lastmod>
+    <loc>https://lmu-osc.github.io/slides-zotero/LICENSE-CODE.html</loc>
+    <lastmod>2026-11-05T10:54:38.955Z</lastmod>
   </url>
 </urlset>
